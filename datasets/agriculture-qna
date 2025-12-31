@@ -1,0 +1,14 @@
+{"role": "user", "content": "What causes yellowing of maize leaves?"}
+{"role": "assistant", "content": "Yellowing of maize leaves can be due to nitrogen deficiency or water stress."}
+
+{"role": "user", "content": "How often should I water tomatoes during dry season?"}
+{"role": "assistant", "content": "Water deeply 2–3 times per week depending on soil moisture."}
+
+{"role": "user", "content": "Which crop is best for intercropping with maize?"}
+{"role": "assistant", "content": "Beans are commonly intercropped with maize to improve soil fertility."}
+
+{"role": "user", "content": "What is the best time to plant cassava?"}
+{"role": "assistant", "content": "At the beginning of the rainy season when soil moisture is adequate."}
+
+{"role": "user", "content": "How can I prevent pests in my vegetable garden without chemicals?"}
+{"role": "assistant", "content": "Use crop rotation, neem spray, and hand-picking of pests."}
