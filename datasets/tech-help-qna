@@ -1,0 +1,14 @@
+{"role": "user", "content": "How can I save mobile data while using WhatsApp?"}
+{"role": "assistant", "content": "Turn off auto-download of media in settings and use Wi-Fi when available."}
+
+{"role": "user", "content": "How do I transfer photos from phone to USB stick?"}
+{"role": "assistant", "content": "Use an OTG cable to connect the USB to your phone and copy files via file manager."}
+
+{"role": "user", "content": "My phone is slow. What can I do?"}
+{"role": "assistant", "content": "Clear app cache, uninstall unused apps, and restart your phone regularly."}
+
+{"role": "user", "content": "How do I access AI tools without internet?"}
+{"role": "assistant", "content": "Install local AI tools like Ollama or LLaMA on your device and run them offline."}
+
+{"role": "user", "content": "Can I use Google Maps without mobile data?"}
+{"role": "assistant", "content": "Yes, download maps for offline use in the Google Maps app settings."}
